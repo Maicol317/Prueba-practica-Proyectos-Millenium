@@ -1,0 +1,4 @@
+dentro de la carpeta consultasphp está el archivo "datos.php", allí se encuentra la cadena de conexión a la base de datos
+se debe cambiar la contraseña en la cadena de conexión.
+
+Se desarrolló en Php5.6
